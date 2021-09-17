@@ -9,6 +9,7 @@ body{
 .card{
     padding: 5px;
     margin: 5px;
+    background-color: variables.$primary;
     .card__btn{
         width: 100%;
         padding-top: 5px;
